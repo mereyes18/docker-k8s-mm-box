@@ -1,0 +1,1 @@
+docker run -p 5432:5432 -e POSTGRE_PASS=admin -d postgres:9
